@@ -1,5 +1,4 @@
 const fs = require("fs"); // Importando o módulo fs (File System) para lidar com arquivos
-
 function getAllBooks() {
   return JSON.parse(fs.readFileSync("BooksData.json")); // Lendo o arquivo BooksData.json e convertendo para um objeto JavaScript
 }

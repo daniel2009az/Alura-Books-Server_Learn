@@ -1,4 +1,3 @@
-const e = require("express");
 const { getAllBooks } = require("../services/Books"); // Importando o conteúdo do arquivo BooksData.json
 const { getBookById } = require("../services/Books"); // Importando o conteúdo do arquivo BooksData.json
 const { postNewBook } = require("../services/Books"); // Importando o conteúdo do arquivo BooksData.json
@@ -10,7 +9,8 @@ function getBooks(req, res) {
     const books = getAllBooks(); // Lendo o arquivo BooksData.json e convertendo para um objeto JavaScript
     res.send(
       books
-    ); /* Enviando a resposta com o conteúdo do arquivo BooksData.json */
+    )
+    ; /*nviando a resposta com o conteúdo do arquivo BooksData.json */
   } catch (error) {
     res.status(400);
     res.send(error.message);
@@ -44,7 +44,7 @@ function postBook(req, res) {
     } else {  
     postNewBook(newBook);
     res.status(201);
-    res.send(newBook);
+    res.send("Sucessfuly added book");
     }
   } catch (error) {
     res.status(500);

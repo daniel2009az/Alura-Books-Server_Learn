@@ -1,1 +1,186 @@
-[{"id":1,"title":"Livro 1","genre":"Ficção","price":19.9,"description":"Descrição do livro 1"},{"id":2,"title":"Livro 2","genre":"Ficção Científica, Romance","price":29.9,"description":"Descrição do livro 2"},{"id":3,"title":"hard to kill 32","genre":"Fantasy","price":20,"description":"The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold."}]
+[
+  {
+    "id": 1,
+    "title": "Livro 1",
+    "genre": "Ficção",
+    "price": 19.9,
+    "description": "Descrição do livro 1",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 2,
+    "title": "Livro 2",
+    "genre": "Ficção Científica, Romance",
+    "price": 29.9,
+    "description": "Descrição do livro 2",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 3,
+    "title": "hard to kill 32",
+    "genre": "Fantasy",
+    "price": 20,
+    "description": "The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold.",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 11,
+    "title": "Livro 11",
+    "genre": "Ficção",
+    "price": 21.0,
+    "description": "Descrição do livro 11",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 12,
+    "title": "Livro 12",
+    "genre": "Ficção Científica",
+    "price": 32.5,
+    "description": "Descrição do livro 12",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 13,
+    "title": "Livro 13",
+    "genre": "Romance",
+    "price": 28.0,
+    "description": "Descrição do livro 13",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 14,
+    "title": "Livro 14",
+    "genre": "Fantasia",
+    "price": 26.0,
+    "description": "Descrição do livro 14",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 15,
+    "title": "Livro 15",
+    "genre": "Mistério",
+    "price": 17.5,
+    "description": "Descrição do livro 15",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 16,
+    "title": "Livro 16",
+    "genre": "Aventura",
+    "price": 29.0,
+    "description": "Descrição do livro 16",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 17,
+    "title": "Livro 17",
+    "genre": "Terror",
+    "price": 19.0,
+    "description": "Descrição do livro 17",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 18,
+    "title": "Livro 18",
+    "genre": "História",
+    "price": 24.5,
+    "description": "Descrição do livro 18",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 19,
+    "title": "Livro 19",
+    "genre": "Biografia",
+    "price": 22.0,
+    "description": "Descrição do livro 19",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 20,
+    "title": "Livro 20",
+    "genre": "Autoajuda",
+    "price": 21.5,
+    "description": "Descrição do livro 20",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 21,
+    "title": "Livro 21",
+    "genre": "Ficção",
+    "price": 20.5,
+    "description": "Descrição do livro 21",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 22,
+    "title": "Livro 22",
+    "genre": "Ficção Científica",
+    "price": 30.0,
+    "description": "Descrição do livro 22",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 23,
+    "title": "Livro 23",
+    "genre": "Romance",
+    "price": 27.5,
+    "description": "Descrição do livro 23",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 24,
+    "title": "Livro 24",
+    "genre": "Fantasia",
+    "price": 28.0,
+    "description": "Descrição do livro 24",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 25,
+    "title": "Livro 25",
+    "genre": "Mistério",
+    "price": 19.0,
+    "description": "Descrição do livro 25",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 26,
+    "title": "Livro 26",
+    "genre": "Aventura",
+    "price": 31.0,
+    "description": "Descrição do livro 26",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 27,
+    "title": "Livro 27",
+    "genre": "Terror",
+    "price": 18.5,
+    "description": "Descrição do livro 27",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 28,
+    "title": "Livro 28",
+    "genre": "História",
+    "price": 26.0,
+    "description": "Descrição do livro 28",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 29,
+    "title": "Livro 29",
+    "genre": "Biografia",
+    "price": 24.0,
+    "description": "Descrição do livro 29",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 30,
+    "title": "Livro 30",
+    "genre": "Autoajuda",
+    "price": 22.5,
+    "description": "Descrição do livro 30",
+    "src": "http://localhost:8000/imagens/livro.png"
+  }
+]

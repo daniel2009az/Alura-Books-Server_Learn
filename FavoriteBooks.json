@@ -1,0 +1,25 @@
+[  {
+    "id": 1,
+    "title": "Livro 1",
+    "genre": "Ficção",
+    "price": 19.9,
+    "description": "Descrição do livro 1",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 2,
+    "title": "Livro 2",
+    "genre": "Ficção Científica, Romance",
+    "price": 29.9,
+    "description": "Descrição do livro 2",
+    "src": "http://localhost:8000/imagens/livro.png"
+  },
+  {
+    "id": 3,
+    "title": "hard to kill 32",
+    "genre": "Fantasy",
+    "price": 20,
+    "description": "The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J. R. R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949, The Lord of the Rings is one of the best-selling novels ever written, with over 150 million copies sold.",
+    "src": "http://localhost:8000/imagens/livro.png"
+  }
+]
